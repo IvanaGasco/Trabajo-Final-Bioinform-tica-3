@@ -1,0 +1,62 @@
+# ===================================
+# DATOS CRUDOS
+# ===================================
+01_raw_data/*.fastq
+01_raw_data/*.fastq.gz
+01_raw_data/*.fq
+01_raw_data/*.fq.gz
+
+# ===================================
+# REFERENCIA GENÓMICA
+# ===================================
+00_ref/*.gtf
+00_ref/*.fa
+00_ref/*.fasta
+00_ref/grch38/*.ht2
+
+# ===================================
+# TRIMMING
+# ===================================
+03_trimming/*.fastq
+03_trimming/*.fastq.gz
+03_trimming/*.fq
+03_trimming/*.fq.gz
+
+# ===================================
+# ALINEAMIENTOS
+# ===================================
+04_alignment/*.bam
+04_alignment/*.bai
+04_alignment/*.sam
+04_alignment/*.bw
+
+# ===================================
+# RESULTADOS INTERMEDIOS PESADOS
+# ===================================
+07_tuxedo_transcripts/FPKM_per_sample/
+07_tuxedo_transcripts/results/isoforms_fpkm_long.csv
+
+# ===================================
+# BIGWIG PARA GENOME BROWSER
+# ===================================
+06_deseq2/results_genome_browser/*.bw
+
+# ===================================
+# ARCHIVOS TEMPORALES
+# ===================================
+**/logs/
+*.log
+*.err
+*.out
+*.tmp
+
+# ===================================
+# PRUEBAS
+# ===================================
+07_tuxedo_transcripts/prueba/
+
+# ===================================
+# SISTEMA
+# ===================================
+.DS_Store
+__pycache__/

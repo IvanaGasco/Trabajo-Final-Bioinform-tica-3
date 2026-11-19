@@ -1,0 +1,10 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR12137400_1	/home/ngs/Bioinfo3/TP_final/MondinoGasco/02_qc_raw/SRR12137400_1_fastqc.zip
+FastQC	all_sections	SRR12137400_2	/home/ngs/Bioinfo3/TP_final/MondinoGasco/02_qc_raw/SRR12137400_2_fastqc.zip
+FastQC	all_sections	SRR12137401_1	/home/ngs/Bioinfo3/TP_final/MondinoGasco/02_qc_raw/SRR12137401_1_fastqc.zip
+FastQC	all_sections	SRR12137401_2	/home/ngs/Bioinfo3/TP_final/MondinoGasco/02_qc_raw/SRR12137401_2_fastqc.zip
+FastQC	all_sections	SRR12137402_1	/home/ngs/Bioinfo3/TP_final/MondinoGasco/02_qc_raw/SRR12137402_1_fastqc.zip
+FastQC	all_sections	SRR12137403_2	/home/ngs/Bioinfo3/TP_final/MondinoGasco/02_qc_raw/SRR12137403_2_fastqc.zip
+FastQC	all_sections	SRR12137404_1	/home/ngs/Bioinfo3/TP_final/MondinoGasco/02_qc_raw/SRR12137404_1_fastqc.zip
+FastQC	all_sections	SRR12137404_2	/home/ngs/Bioinfo3/TP_final/MondinoGasco/02_qc_raw/SRR12137404_2_fastqc.zip
+FastQC	all_sections	SRR12137405_1	/home/ngs/Bioinfo3/TP_final/MondinoGasco/02_qc_raw/SRR12137405_1_fastqc.zip

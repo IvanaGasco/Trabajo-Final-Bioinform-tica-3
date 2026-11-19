@@ -1,0 +1,10 @@
+Sample	bowtie_2_hisat2-overall_alignment_rate
+SRR12137399_hisat2	98.31
+SRR12137400_hisat2	98.2
+SRR12137401_hisat2	98.53
+SRR12137402_hisat2	98.65
+SRR12137403_hisat2	98.16
+SRR12137404_hisat2	98.55
+SRR12137405_hisat2	98.58
+SRR12137406_hisat2	95.65
+align_51456.err	95.65

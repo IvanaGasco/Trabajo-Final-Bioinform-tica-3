@@ -1,0 +1,15 @@
+Status	/home/ngs/Bioinfo3/TP_final/MondinoGasco/04_alignment/SRR12137399.sorted.bam	/home/ngs/Bioinfo3/TP_final/MondinoGasco/04_alignment/SRR12137400.sorted.bam	/home/ngs/Bioinfo3/TP_final/MondinoGasco/04_alignment/SRR12137401.sorted.bam	/home/ngs/Bioinfo3/TP_final/MondinoGasco/04_alignment/SRR12137402.sorted.bam	/home/ngs/Bioinfo3/TP_final/MondinoGasco/04_alignment/SRR12137403.sorted.bam	/home/ngs/Bioinfo3/TP_final/MondinoGasco/04_alignment/SRR12137404.sorted.bam	/home/ngs/Bioinfo3/TP_final/MondinoGasco/04_alignment/SRR12137405.sorted.bam	/home/ngs/Bioinfo3/TP_final/MondinoGasco/04_alignment/SRR12137406.sorted.bam
+Assigned	8310961	34234447	38335193	18867214	17893510	41688728	3831842	13790126
+Unassigned_Unmapped	216185	992980	726131	332368	514989	780550	67465	915200
+Unassigned_Read_Type	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	1809725	8116452	9036348	3871968	5191217	7422427	646279	3154481
+Unassigned_Secondary	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	2795430	13577217	3595909	2302729	6083424	4770468	275084	3619364
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	887873	3709955	4115383	1991570	1953525	4157854	379525	1687422

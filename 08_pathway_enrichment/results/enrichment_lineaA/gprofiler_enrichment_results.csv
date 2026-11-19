@@ -1,0 +1,7 @@
+"source","term_id","term_name","p_value","query_size","intersection_size","precision","recall"
+"REAC","REAC:R-HSA-5661231","Metallothioneins bind metals",0.00179704321009379,5,2,0.4,0.181818181818182
+"REAC","REAC:R-HSA-5660526","Response to metal ions",0.00297167536535393,5,2,0.4,0.142857142857143
+"GO:BP","GO:0019725","cellular homeostasis",0.0119249046086753,10,5,0.5,0.0088339222614841
+"GO:BP","GO:0010273","detoxification of copper ion",0.0331518264250738,10,2,0.2,0.142857142857143
+"GO:BP","GO:1990169","stress response to copper ion",0.0331518264250738,10,2,0.2,0.142857142857143
+"KEGG","KEGG:04978","Mineral absorption",0.034718708374727,6,2,0.333333333333333,0.0333333333333333

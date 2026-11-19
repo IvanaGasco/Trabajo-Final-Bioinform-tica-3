@@ -1,0 +1,9 @@
+Module	Section	Sample Name	Source
+fastp	all_sections	SRR12137399	/home/ngs/Bioinfo3/TP_final/MondinoGasco/03_trimming/SRR12137399_json.json
+fastp	all_sections	SRR12137400	/home/ngs/Bioinfo3/TP_final/MondinoGasco/03_trimming/SRR12137400_json.json
+fastp	all_sections	SRR12137401	/home/ngs/Bioinfo3/TP_final/MondinoGasco/03_trimming/SRR12137401_json.json
+fastp	all_sections	SRR12137402	/home/ngs/Bioinfo3/TP_final/MondinoGasco/03_trimming/SRR12137402_json.json
+fastp	all_sections	SRR12137403	/home/ngs/Bioinfo3/TP_final/MondinoGasco/03_trimming/SRR12137403_json.json
+fastp	all_sections	SRR12137404	/home/ngs/Bioinfo3/TP_final/MondinoGasco/03_trimming/SRR12137404_json.json
+fastp	all_sections	SRR12137405	/home/ngs/Bioinfo3/TP_final/MondinoGasco/03_trimming/SRR12137405_json.json
+fastp	all_sections	SRR12137406	/home/ngs/Bioinfo3/TP_final/MondinoGasco/03_trimming/SRR12137406_json.json

@@ -1,0 +1,9 @@
+Module	Section	Sample Name	Source
+featureCounts	all_sections	SRR12137399	/home/ngs/Bioinfo3/TP_final/MondinoGasco/05_quantification/gene_counts_raw.txt.summary
+featureCounts	all_sections	SRR12137400	/home/ngs/Bioinfo3/TP_final/MondinoGasco/05_quantification/gene_counts_raw.txt.summary
+featureCounts	all_sections	SRR12137401	/home/ngs/Bioinfo3/TP_final/MondinoGasco/05_quantification/gene_counts_raw.txt.summary
+featureCounts	all_sections	SRR12137402	/home/ngs/Bioinfo3/TP_final/MondinoGasco/05_quantification/gene_counts_raw.txt.summary
+featureCounts	all_sections	SRR12137403	/home/ngs/Bioinfo3/TP_final/MondinoGasco/05_quantification/gene_counts_raw.txt.summary
+featureCounts	all_sections	SRR12137404	/home/ngs/Bioinfo3/TP_final/MondinoGasco/05_quantification/gene_counts_raw.txt.summary
+featureCounts	all_sections	SRR12137405	/home/ngs/Bioinfo3/TP_final/MondinoGasco/05_quantification/gene_counts_raw.txt.summary
+featureCounts	all_sections	SRR12137406	/home/ngs/Bioinfo3/TP_final/MondinoGasco/05_quantification/gene_counts_raw.txt.summary

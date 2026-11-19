@@ -1,0 +1,10 @@
+Module	Section	Sample Name	Source
+Bowtie 2 / HiSAT2	all_sections	SRR12137399_hisat2	/home/ngs/Bioinfo3/TP_final/MondinoGasco/04_alignment/SRR12137399_hisat2_summary.txt
+Bowtie 2 / HiSAT2	all_sections	SRR12137400_hisat2	/home/ngs/Bioinfo3/TP_final/MondinoGasco/04_alignment/SRR12137400_hisat2_summary.txt
+Bowtie 2 / HiSAT2	all_sections	SRR12137401_hisat2	/home/ngs/Bioinfo3/TP_final/MondinoGasco/04_alignment/SRR12137401_hisat2_summary.txt
+Bowtie 2 / HiSAT2	all_sections	SRR12137402_hisat2	/home/ngs/Bioinfo3/TP_final/MondinoGasco/04_alignment/SRR12137402_hisat2_summary.txt
+Bowtie 2 / HiSAT2	all_sections	SRR12137403_hisat2	/home/ngs/Bioinfo3/TP_final/MondinoGasco/04_alignment/SRR12137403_hisat2_summary.txt
+Bowtie 2 / HiSAT2	all_sections	SRR12137404_hisat2	/home/ngs/Bioinfo3/TP_final/MondinoGasco/04_alignment/SRR12137404_hisat2_summary.txt
+Bowtie 2 / HiSAT2	all_sections	SRR12137405_hisat2	/home/ngs/Bioinfo3/TP_final/MondinoGasco/04_alignment/SRR12137405_hisat2_summary.txt
+Bowtie 2 / HiSAT2	all_sections	SRR12137406_hisat2	/home/ngs/Bioinfo3/TP_final/MondinoGasco/04_alignment/SRR12137406_hisat2_summary.txt
+Bowtie 2 / HiSAT2	all_sections	align_51456.err	/home/ngs/Bioinfo3/TP_final/MondinoGasco/04_alignment/logs/align_51456.err
